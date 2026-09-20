@@ -1,0 +1,9 @@
+{
+  "variants": {
+	  "facing=north,half=upper,hinge=left,open=true,powered=false": { "model": "block/pine_leaves_slab", "y":90, "x":90},
+	  "facing=east,half=upper,hinge=left,open=true,powered=false": { "model": "block/pine_leaves_slab", "y":180, "x":90},
+	  "facing=west,half=upper,hinge=left,open=true,powered=false": { "model": "block/pine_leaves_slab", "x":90},
+	  "facing=south,half=upper,hinge=left,open=true,powered=false": { "model": "block/pine_leaves_slab", "y":270, "x":90}
+
+  }
+}

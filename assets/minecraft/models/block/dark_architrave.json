@@ -1,7 +1,7 @@
 {
   "parent": "block/architrave_parent",
   "textures": {
-    "texture": "block/smooth_stone_4",
+    "texture": "block/mud_bricks",
     "side": "block/brown_mushroom_block_wud"
   }
 }

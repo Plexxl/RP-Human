@@ -1,7 +1,7 @@
 {
   "parent": "block/architrave_quarter_parent",
   "textures": {
-    "3": "block/darker_smooth_stone_4",
-    "4": "block/stripped_cherry_log_side"
+    "3": "block/mud_bricks_darker",
+    "4": "block/stripped_cherry_log"
   }
 }

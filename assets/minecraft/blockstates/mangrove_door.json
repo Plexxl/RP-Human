@@ -277,8 +277,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/nether_bricks_quarter_bottom",
-        "y": 180
+        "model": "block/pine_leaves_slab_green",
+        "y": 180, "x":270
       }
     },
     {
@@ -290,8 +290,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/nether_bricks_quarter_bottom",
-        "y": 270
+        "model": "block/pine_leaves_slab_green",
+        "y": 270, "x":270
       }
     },
     {
@@ -303,8 +303,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/nether_bricks_quarter_bottom",
-        "y": 0
+        "model": "block/pine_leaves_slab_green",
+        "y": 0, "x":270
       }
     },
     {
@@ -316,8 +316,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/nether_bricks_quarter_bottom",
-        "y": 90
+        "model": "block/pine_leaves_slab_green",
+        "y": 90, "x":270
       }
     },
     {
@@ -432,10 +432,16 @@
         "open": "true",
         "powered": "false"
       },
-      "apply": {
+      "apply": [{
         "model": "block/trapdoor_dark_pillar_open",
         "y": 180
-      }
+      },{
+        "model": "block/trapdoor_dark_pillar_open_2",
+        "y": 180
+      },{
+        "model": "block/trapdoor_dark_pillar_open_3",
+        "y": 180
+      }]
     },
     {
       "when": {
@@ -445,10 +451,16 @@
         "open": "true",
         "powered": "false"
       },
-      "apply": {
+      "apply": [{
         "model": "block/trapdoor_dark_pillar_open",
         "y": 270
-      }
+      },{
+        "model": "block/trapdoor_dark_pillar_open_2",
+        "y": 270
+      },{
+        "model": "block/trapdoor_dark_pillar_open_3",
+        "y": 270
+      }]
     },
     {
       "when": {
@@ -458,10 +470,16 @@
         "open": "true",
         "powered": "false"
       },
-      "apply": {
+      "apply": [{
         "model": "block/trapdoor_dark_pillar_open",
         "y": 0
-      }
+      },{
+        "model": "block/trapdoor_dark_pillar_open_2",
+        "y": 0
+      },{
+        "model": "block/trapdoor_dark_pillar_open_3",
+        "y": 0
+      }]
     },
     {
       "when": {
@@ -471,10 +489,16 @@
         "open": "true",
         "powered": "false"
       },
-      "apply": {
+      "apply": [{
         "model": "block/trapdoor_dark_pillar_open",
         "y": 90
-      }
+      },{
+        "model": "block/trapdoor_dark_pillar_open_2",
+        "y": 90
+      },{
+        "model": "block/trapdoor_dark_pillar_open_3",
+        "y": 90
+      }]
     },
     {
       "when": {
@@ -537,8 +561,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/iron_bars_edge",
-        "y": 270
+        "model": "block/pine_leaves_slab_dark",
+        "y": 270, "x":270
       }
     },
     {
@@ -550,7 +574,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/iron_bars_edge"
+        "model": "block/pine_leaves_slab_dark",
+        "x":270
       }
     },
     {
@@ -562,8 +587,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/iron_bars_edge",
-        "y": 90
+        "model": "block/pine_leaves_slab_dark",
+        "y": 90, "x":270
       }
     },
     {
@@ -575,8 +600,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/iron_bars_edge",
-        "y": 180
+        "model": "block/pine_leaves_slab_dark",
+        "y": 180, "x":270
       }
     },
     {
@@ -795,8 +820,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/darker_stone_rim",
-        "y": 270
+        "model": "block/pine_leaves_slab_brown",
+        "y": 270, "x":90
       }
     },
     {
@@ -808,8 +833,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/darker_stone_rim",
-        "y": 0
+        "model": "block/pine_leaves_slab_brown",
+        "y": 0, "x":90
       }
     },
     {
@@ -821,8 +846,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/darker_stone_rim",
-        "y": 90
+        "model": "block/pine_leaves_slab_brown",
+        "y": 90, "x":90
       }
     },
     {
@@ -834,8 +859,8 @@
         "powered": "true"
       },
       "apply": {
-        "model": "block/darker_stone_rim",
-        "y": 180
+        "model": "block/pine_leaves_slab_brown",
+        "y": 180, "x":90
       }
     }
   ]

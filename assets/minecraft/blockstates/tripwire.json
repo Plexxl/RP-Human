@@ -219,8 +219,8 @@
 	"powered=true,disarmed=false,attached=true,north=false,east=true,south=true,west=false": {
 	  "model": "block/replace", "y":180
 	},
-	"powered=true,disarmed=false,attached=true,north=false,east=true,south=true,west=true": {
-	  "model": "block/replace", "y":180
+	"powered=true,disarmed=true,attached=true,north=false,east=true,south=true,west=true": {
+	  "model": "block/spruce_branch_horizontal_thin", "y":180
 	},
 	"powered=true,disarmed=false,attached=true,north=true,east=false,south=false,west=false": {
 	  "model": "block/replace" 
@@ -231,17 +231,17 @@
     "powered=true,disarmed=false,attached=true,north=true,east=false,south=true,west=false": {
 	  "model": "block/replace"
 	},
-    "powered=true,disarmed=false,attached=true,north=true,east=false,south=true,west=true": {
-	  "model": "block/replace", "y":270
+    "powered=true,disarmed=true,attached=true,north=true,east=false,south=true,west=true": {
+	  "model": "block/spruce_branch_horizontal_thin", "y":270
 	},
     "powered=true,disarmed=false,attached=true,north=true,east=true,south=false,west=false": {
 	  "model": "block/replace", "y":90
 	},
-    "powered=true,disarmed=false,attached=true,north=true,east=true,south=false,west=true": {
-	  "model": "block/replace" 
+    "powered=true,disarmed=true,attached=true,north=true,east=true,south=false,west=true": {
+	  "model": "block/spruce_branch_horizontal_thin" 
 	},
-    "powered=true,disarmed=false,attached=true,north=true,east=true,south=true,west=false": {
-	  "model": "block/replace", "y":90
+    "powered=true,disarmed=true,attached=true,north=true,east=true,south=true,west=false": {
+	  "model": "block/spruce_branch_horizontal_thin", "y":90
 	},
     "powered=true,disarmed=false,attached=true,north=true,east=true,south=true,west=true": {
 	  "model": "block/trapdoor_ghost_bricks_bottom"
@@ -378,7 +378,7 @@
 	  "model": "block/replace", "y":180
 	},
 	"powered=true,disarmed=true,attached=false,north=false,east=true,south=true,west=true": {
-	  "model": "block/replace", "y":180
+	  "model": "block/spruce_branch_horizontal_thick", "y":180
 	},
 	"powered=true,disarmed=true,attached=false,north=true,east=false,south=false,west=false": {
 	  "model": "block/replace" 
@@ -390,16 +390,16 @@
 	  "model": "block/replace"
 	},
     "powered=true,disarmed=true,attached=false,north=true,east=false,south=true,west=true": {
-	  "model": "block/replace", "y":270
+	  "model": "block/spruce_branch_horizontal_thick", "y":270
 	},
     "powered=true,disarmed=true,attached=false,north=true,east=true,south=false,west=false": {
 	  "model": "block/replace", "y":90
 	},
     "powered=true,disarmed=true,attached=false,north=true,east=true,south=false,west=true": {
-	  "model": "block/replace" 
+	  "model": "block/spruce_branch_horizontal_thick" 
 	},
     "powered=true,disarmed=true,attached=false,north=true,east=true,south=true,west=false": {
-	  "model": "block/replace", "y":90
+	  "model": "block/spruce_branch_horizontal_thick", "y":90
 	},
     "powered=true,disarmed=true,attached=false,north=true,east=true,south=true,west=true": {
 	  "model": "block/replace"
@@ -425,7 +425,7 @@
 	"powered=true,disarmed=true,attached=true,north=false,east=true,south=true,west=false": {
 	  "model": "block/replace", "y":180
 	},
-	"powered=true,disarmed=true,attached=true,north=false,east=true,south=true,west=true": {
+	"powered=true,disarmed=false,attached=true,north=false,east=true,south=true,west=true": {
 	  "model": "block/offset_ghost_brick_stairs"
 	},
 	"powered=true,disarmed=true,attached=true,north=true,east=false,south=false,west=false": {
@@ -437,16 +437,16 @@
     "powered=true,disarmed=true,attached=true,north=true,east=false,south=true,west=false": {
 	  "model": "block/replace"
 	},
-    "powered=true,disarmed=true,attached=true,north=true,east=false,south=true,west=true": {
+    "powered=true,disarmed=false,attached=true,north=true,east=false,south=true,west=true": {
 	  "model": "block/offset_ghost_brick_stairs", "y": 90
 	},
     "powered=true,disarmed=true,attached=true,north=true,east=true,south=false,west=false": {
 	  "model": "block/replace", "y":90
 	},
-    "powered=true,disarmed=true,attached=true,north=true,east=true,south=false,west=true": {
+    "powered=true,disarmed=false,attached=true,north=true,east=true,south=false,west=true": {
 	  "model": "block/offset_ghost_brick_stairs", "y": 180
 	},
-    "powered=true,disarmed=true,attached=true,north=true,east=true,south=true,west=false": {
+    "powered=true,disarmed=false,attached=true,north=true,east=true,south=true,west=false": {
 	  "model": "block/offset_ghost_brick_stairs", "y": 270
 	},
     "powered=true,disarmed=true,attached=true,north=true,east=true,south=true,west=true": {

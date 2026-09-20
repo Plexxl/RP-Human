@@ -1,0 +1,7 @@
+{
+  "variants": {
+	  "facing=west,half=bottom,open=false,powered=true,waterlogged=false": { "model": "block/pine_leaves_slab_dark"},
+	  "facing=west,half=top,open=false,powered=true,waterlogged=false": { "model": "block/pine_leaves_slab_dark", "x": 180}
+
+  }
+}

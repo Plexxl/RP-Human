@@ -1,7 +1,7 @@
 {
   "parent": "item/architrave_bottom_half_inv_parent",
   "textures": {
-    "texture": "block/smooth_stone_4",
-    "side": "block/stripped_dark_oak_log_side"
+    "texture": "block/mud_bricks",
+    "side": "block/stripped_dark_oak_log"
   }
 }

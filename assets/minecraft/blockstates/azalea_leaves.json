@@ -1,0 +1,8 @@
+{
+  "variants": {
+	  "distance=2,persistent=true,waterlogged=false": { "model": "block/pine_leaves_dark"},
+	  "distance=3,persistent=true,waterlogged=false": { "model": "block/pine_leaves_brown"},
+	  "distance=5,persistent=true,waterlogged=false": { "model": "block/pine_leaves_green"}
+
+  }
+}

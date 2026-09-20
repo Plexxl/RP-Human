@@ -33,6 +33,9 @@
     "east=true,north=true,south=true,west=false": {
       "model": "block/ghost_architrave_half",
       "y": 90, "x": 180
+    },
+    "east=false,north=false,south=false,west=false": {
+      "model": "block/spruce_trunk_thin"
     }
   }
 }

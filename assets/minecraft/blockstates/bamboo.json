@@ -1,0 +1,7 @@
+{
+  "variants": {
+	 "age=0,leaves=large,stage=0": [
+      { "model": "block/spruce_peak" }
+	  ]
+ }
+}
